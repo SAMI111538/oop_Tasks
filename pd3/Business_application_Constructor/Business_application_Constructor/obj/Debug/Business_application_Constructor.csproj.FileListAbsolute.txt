@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\Week_3\pd3\Business_application_Constructor\Business_application_Constructor\bin\Debug\Business_application_Constructor.exe.config
+C:\Users\AL-FATAH LAPTOP\Week_3\pd3\Business_application_Constructor\Business_application_Constructor\bin\Debug\Business_application_Constructor.exe
+C:\Users\AL-FATAH LAPTOP\Week_3\pd3\Business_application_Constructor\Business_application_Constructor\bin\Debug\Business_application_Constructor.pdb
+C:\Users\AL-FATAH LAPTOP\Week_3\pd3\Business_application_Constructor\Business_application_Constructor\obj\Debug\Business_application_Constructor.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\Week_3\pd3\Business_application_Constructor\Business_application_Constructor\obj\Debug\Business_application_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\Week_3\pd3\Business_application_Constructor\Business_application_Constructor\obj\Debug\Business_application_Constructor.exe
+C:\Users\AL-FATAH LAPTOP\Week_3\pd3\Business_application_Constructor\Business_application_Constructor\obj\Debug\Business_application_Constructor.pdb
