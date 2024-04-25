@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\DD\repos\Login_by_List\Login_by_List\bin\Debug\Login_by_List.exe.config
+C:\Users\AL-FATAH LAPTOP\DD\repos\Login_by_List\Login_by_List\bin\Debug\Login_by_List.exe
+C:\Users\AL-FATAH LAPTOP\DD\repos\Login_by_List\Login_by_List\bin\Debug\Login_by_List.pdb
+C:\Users\AL-FATAH LAPTOP\DD\repos\Login_by_List\Login_by_List\obj\Debug\Login_by_List.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\DD\repos\Login_by_List\Login_by_List\obj\Debug\Login_by_List.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\DD\repos\Login_by_List\Login_by_List\obj\Debug\Login_by_List.exe
+C:\Users\AL-FATAH LAPTOP\DD\repos\Login_by_List\Login_by_List\obj\Debug\Login_by_List.pdb
