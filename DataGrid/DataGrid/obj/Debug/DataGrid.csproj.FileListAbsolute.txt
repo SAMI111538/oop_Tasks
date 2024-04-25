@@ -1,0 +1,10 @@
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Application\DataGrid\DataGrid\obj\Debug\DataGrid.pdb
