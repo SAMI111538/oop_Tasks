@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\week5\lab5\Ums\Ums\obj\Debug\Ums.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\week5\lab5\Ums\Ums\obj\Debug\Ums.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\week5\lab5\Ums\Ums\bin\Debug\Ums.exe.config
+C:\Users\AL-FATAH LAPTOP\week5\lab5\Ums\Ums\bin\Debug\Ums.exe
+C:\Users\AL-FATAH LAPTOP\week5\lab5\Ums\Ums\bin\Debug\Ums.pdb
+C:\Users\AL-FATAH LAPTOP\week5\lab5\Ums\Ums\obj\Debug\Ums.exe
+C:\Users\AL-FATAH LAPTOP\week5\lab5\Ums\Ums\obj\Debug\Ums.pdb

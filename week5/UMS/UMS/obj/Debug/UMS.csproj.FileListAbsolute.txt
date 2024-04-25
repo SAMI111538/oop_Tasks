@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\week5\UMS\UMS\bin\Debug\UMS.exe.config
+C:\Users\AL-FATAH LAPTOP\week5\UMS\UMS\bin\Debug\UMS.exe
+C:\Users\AL-FATAH LAPTOP\week5\UMS\UMS\bin\Debug\UMS.pdb
+C:\Users\AL-FATAH LAPTOP\week5\UMS\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\week5\UMS\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\week5\UMS\UMS\obj\Debug\UMS.exe
+C:\Users\AL-FATAH LAPTOP\week5\UMS\UMS\obj\Debug\UMS.pdb
