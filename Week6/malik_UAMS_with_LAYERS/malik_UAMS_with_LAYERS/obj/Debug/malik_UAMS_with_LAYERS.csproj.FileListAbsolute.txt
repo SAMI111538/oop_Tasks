@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\Week6\malik_UAMS_with_LAYERS\malik_UAMS_with_LAYERS\bin\Debug\malik_UAMS_with_LAYERS.exe.config
+C:\Users\AL-FATAH LAPTOP\Week6\malik_UAMS_with_LAYERS\malik_UAMS_with_LAYERS\bin\Debug\malik_UAMS_with_LAYERS.exe
+C:\Users\AL-FATAH LAPTOP\Week6\malik_UAMS_with_LAYERS\malik_UAMS_with_LAYERS\bin\Debug\malik_UAMS_with_LAYERS.pdb
+C:\Users\AL-FATAH LAPTOP\Week6\malik_UAMS_with_LAYERS\malik_UAMS_with_LAYERS\obj\Debug\malik_UAMS_with_LAYERS.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\Week6\malik_UAMS_with_LAYERS\malik_UAMS_with_LAYERS\obj\Debug\malik_UAMS_with_LAYERS.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\Week6\malik_UAMS_with_LAYERS\malik_UAMS_with_LAYERS\obj\Debug\malik_UAMS_with_LAYERS.exe
+C:\Users\AL-FATAH LAPTOP\Week6\malik_UAMS_with_LAYERS\malik_UAMS_with_LAYERS\obj\Debug\malik_UAMS_with_LAYERS.pdb

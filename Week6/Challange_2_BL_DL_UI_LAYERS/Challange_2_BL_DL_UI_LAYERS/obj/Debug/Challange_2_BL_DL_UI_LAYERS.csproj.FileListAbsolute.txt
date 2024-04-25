@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\Week6\Challange_2_BL_DL_UI_LAYERS\Challange_2_BL_DL_UI_LAYERS\obj\Debug\Challange_2_BL_DL_UI_LAYERS.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\Week6\Challange_2_BL_DL_UI_LAYERS\Challange_2_BL_DL_UI_LAYERS\obj\Debug\Challange_2_BL_DL_UI_LAYERS.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\Week6\Challange_2_BL_DL_UI_LAYERS\Challange_2_BL_DL_UI_LAYERS\bin\Debug\Challange_2_BL_DL_UI_LAYERS.exe.config
+C:\Users\AL-FATAH LAPTOP\Week6\Challange_2_BL_DL_UI_LAYERS\Challange_2_BL_DL_UI_LAYERS\bin\Debug\Challange_2_BL_DL_UI_LAYERS.exe
+C:\Users\AL-FATAH LAPTOP\Week6\Challange_2_BL_DL_UI_LAYERS\Challange_2_BL_DL_UI_LAYERS\bin\Debug\Challange_2_BL_DL_UI_LAYERS.pdb
+C:\Users\AL-FATAH LAPTOP\Week6\Challange_2_BL_DL_UI_LAYERS\Challange_2_BL_DL_UI_LAYERS\obj\Debug\Challange_2_BL_DL_UI_LAYERS.exe
+C:\Users\AL-FATAH LAPTOP\Week6\Challange_2_BL_DL_UI_LAYERS\Challange_2_BL_DL_UI_LAYERS\obj\Debug\Challange_2_BL_DL_UI_LAYERS.pdb
