@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\week8_Lab\week8_LabTask3\week8_LabTask3\obj\Debug\week8_LabTask3.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\week8_Lab\week8_LabTask3\week8_LabTask3\obj\Debug\week8_LabTask3.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\week8_Lab\week8_LabTask3\week8_LabTask3\bin\Debug\week8_LabTask3.exe.config
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\week8_Lab\week8_LabTask3\week8_LabTask3\bin\Debug\week8_LabTask3.exe
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\week8_Lab\week8_LabTask3\week8_LabTask3\bin\Debug\week8_LabTask3.pdb
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\week8_Lab\week8_LabTask3\week8_LabTask3\obj\Debug\week8_LabTask3.exe
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\week8_Lab\week8_LabTask3\week8_LabTask3\obj\Debug\week8_LabTask3.pdb
