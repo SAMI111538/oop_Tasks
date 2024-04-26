@@ -1,0 +1,13 @@
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\bin\Debug\Lab-11_Pacman_Game.exe.config
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\bin\Debug\Lab-11_Pacman_Game.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\bin\Debug\Lab-11_Pacman_Game.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab-11_Pacman_Game.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab_11_Pacman_Game.Form1.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab_11_Pacman_Game.Properties.Resources.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab-11_Pacman_Game.csproj.GenerateResource.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab-11_Pacman_Game.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab-11_Pacman_Game.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab-11_Pacman_Game.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\bin\Debug\EZInput.dll
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\bin\Debug\EZInput.xml
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab-11_Pacman_Game\Lab-11_Pacman_Game\obj\Debug\Lab-11_Pacman_Game.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\source\repos\malik\malik\bin\Debug\malik.exe.config
+C:\Users\AL-FATAH LAPTOP\source\repos\malik\malik\bin\Debug\malik.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\malik\malik\bin\Debug\malik.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\malik\malik\obj\Debug\malik.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\malik\malik\obj\Debug\malik.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\malik\malik\obj\Debug\malik.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\malik\malik\obj\Debug\malik.pdb
