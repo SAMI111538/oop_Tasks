@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\source\repos\Game_Challange1pd7\Game_Challange1pd7\obj\Debug\Game_Challange1pd7.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\Game_Challange1pd7\Game_Challange1pd7\obj\Debug\Game_Challange1pd7.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\Game_Challange1pd7\Game_Challange1pd7\bin\Debug\Game_Challange1pd7.exe.config
+C:\Users\AL-FATAH LAPTOP\source\repos\Game_Challange1pd7\Game_Challange1pd7\bin\Debug\Game_Challange1pd7.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\Game_Challange1pd7\Game_Challange1pd7\bin\Debug\Game_Challange1pd7.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\Game_Challange1pd7\Game_Challange1pd7\obj\Debug\Game_Challange1pd7.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\Game_Challange1pd7\Game_Challange1pd7\obj\Debug\Game_Challange1pd7.pdb

@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab6_CHALLANGE1_Coffee\Lab6_CHALLANGE1_Coffee\bin\Debug\Lab6_CHALLANGE1_Coffee.exe.config
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab6_CHALLANGE1_Coffee\Lab6_CHALLANGE1_Coffee\bin\Debug\Lab6_CHALLANGE1_Coffee.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab6_CHALLANGE1_Coffee\Lab6_CHALLANGE1_Coffee\bin\Debug\Lab6_CHALLANGE1_Coffee.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab6_CHALLANGE1_Coffee\Lab6_CHALLANGE1_Coffee\obj\Debug\Lab6_CHALLANGE1_Coffee.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab6_CHALLANGE1_Coffee\Lab6_CHALLANGE1_Coffee\obj\Debug\Lab6_CHALLANGE1_Coffee.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab6_CHALLANGE1_Coffee\Lab6_CHALLANGE1_Coffee\obj\Debug\Lab6_CHALLANGE1_Coffee.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\Lab6_CHALLANGE1_Coffee\Lab6_CHALLANGE1_Coffee\obj\Debug\Lab6_CHALLANGE1_Coffee.pdb

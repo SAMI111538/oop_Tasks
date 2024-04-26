@@ -1,0 +1,7 @@
+C:\Users\AL-FATAH LAPTOP\source\repos\test_02\test_02\bin\Debug\test_02.exe.config
+C:\Users\AL-FATAH LAPTOP\source\repos\test_02\test_02\bin\Debug\test_02.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\test_02\test_02\bin\Debug\test_02.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\test_02\test_02\obj\Debug\test_02.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\test_02\test_02\obj\Debug\test_02.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\test_02\test_02\obj\Debug\test_02.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\test_02\test_02\obj\Debug\test_02.pdb

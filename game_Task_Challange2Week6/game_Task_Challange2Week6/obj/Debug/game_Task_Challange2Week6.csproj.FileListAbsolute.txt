@@ -1,0 +1,10 @@
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\obj\Debug\game_Task_Challange2Week6.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\obj\Debug\game_Task_Challange2Week6.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\bin\Debug\game_Task_Challange2Week6.exe.config
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\bin\Debug\game_Task_Challange2Week6.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\bin\Debug\game_Task_Challange2Week6.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\bin\Debug\EZInput.dll
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\bin\Debug\EZInput.xml
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\obj\Debug\game_Task_Challange2Week6.csproj.CopyComplete
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\obj\Debug\game_Task_Challange2Week6.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\game_Task_Challange2Week6\game_Task_Challange2Week6\obj\Debug\game_Task_Challange2Week6.pdb
