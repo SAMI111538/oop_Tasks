@@ -1,0 +1,15 @@
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\bin\Debug\FinalApplicationGUI.exe.config
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\bin\Debug\FinalApplicationGUI.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\bin\Debug\FinalApplicationGUI.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.frmAdminMainMenu.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.frmCustomerMainMenu.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.frmSignUp.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.Properties.Resources.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.csproj.GenerateResource.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.exe
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.pdb
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.frmSignIn.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.frmAddProduct.resources
+C:\Users\AL-FATAH LAPTOP\source\repos\FinalApplicationGUI\FinalApplicationGUI\obj\Debug\FinalApplicationGUI.UC_AddProduct.resources

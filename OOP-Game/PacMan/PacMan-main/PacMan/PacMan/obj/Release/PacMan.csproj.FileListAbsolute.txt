@@ -1,0 +1,17 @@
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\PacMan.exe.config
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\PacMan.exe
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\PacMan.pdb
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\EZInput.dll
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\Unity.Abstractions.dll
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\Unity.Container.dll
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\EZInput.xml
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\Unity.Abstractions.pdb
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\bin\Release\Unity.Container.pdb
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\obj\Release\PacMan.csprojAssemblyReference.cache
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\obj\Release\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\obj\Release\PacMan.csproj.CopyComplete
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\obj\Release\PacMan.exe
+C:\Users\Awais\Documents\GitHub\PacMan\PacMan\PacMan\obj\Release\PacMan.pdb

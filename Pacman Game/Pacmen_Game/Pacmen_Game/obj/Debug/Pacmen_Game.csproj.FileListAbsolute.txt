@@ -1,0 +1,10 @@
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\bin\Debug\Pacmen_Game.exe.config
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\bin\Debug\Pacmen_Game.exe
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\bin\Debug\Pacmen_Game.pdb
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\bin\Debug\EZInput.dll
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\bin\Debug\EZInput.xml
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\obj\Debug\Pacmen_Game.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\obj\Debug\Pacmen_Game.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\obj\Debug\Pacmen_Game.csproj.CopyComplete
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\obj\Debug\Pacmen_Game.exe
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\Sherry\Pacmen_Game\Pacmen_Game\obj\Debug\Pacmen_Game.pdb

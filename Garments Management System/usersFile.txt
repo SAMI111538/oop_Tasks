@@ -1,0 +1,7 @@
+sherry,123,admin
+abc,abc,customer
+xyz,xyz,customer
+r,2,admin
+sherry,123,admin
+barr,love,admin
+chabal,123,admin

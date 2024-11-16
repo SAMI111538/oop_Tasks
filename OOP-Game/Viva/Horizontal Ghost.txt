@@ -1,0 +1,79 @@
+public class HorizontalGhost : Ghost
+    {
+        public HorizontalGhost(Image img , GameCell start) : base ( img , start)
+        {
+            this.direction = GameDirection.Right;
+        }
+
+        public override GameCell move()
+        {
+            GameCell currentCell = this.CurrentCell;
+            GameCell nextCell = currentCell.nextCell(direction);
+            if (nextCell == currentCell && direction == GameDirection.Right)
+            {
+
+                direction = GameDirection.Left;
+            }
+            else if (nextCell == currentCell && direction == GameDirection.Left)
+            {
+                direction = GameDirection.Right;
+            }
+            if (nextCell != currentCell)
+            {
+                nextCell.setGameObject(this);
+                this.CurrentCell = nextCell;
+                currentCell.setGameObject(Game.getBlankGameObject());
+
+            }
+
+
+            return currentCell.nextCell(direction);
+        }
+    }
+
+    class Smart_Ghost : Ghost
+    {
+        public Smart_Ghost(char displayCharcter, GameCell startCell) : base(displayCharcter, startCell)
+        {
+            this.direction = GameDirection.Left;
+        }
+        public override GameCell move()
+        {
+            
+            double[] distance = new double[4] { 1000000, 1000000, 1000000, 1000000 };
+            GameCell cell = CurrentCell.nextCell(direction);
+           
+            if (cell != null )
+            {
+                distance[0] = calculateDistance(cell.X, cell.Y - 1,Program.Pacman.CurrentCell.X, Program.Pacman.CurrentCell.Y);
+                distance[1] = calculateDistance(cell.X, cell.Y + 1, Program.Pacman.CurrentCell.X, Program.Pacman.CurrentCell.Y);
+                distance[2] = calculateDistance(cell.X + 1, cell.Y, Program.Pacman.CurrentCell.X, Program.Pacman.CurrentCell.Y);
+                distance[3] = calculateDistance(cell.X - 1, cell.Y - 1, Program.Pacman.CurrentCell.X, Program.Pacman.CurrentCell.Y);
+
+                
+
+                if (distance[0] <= distance[1] && distance[0] <= distance[2] && distance[0] <= distance[3])
+                {
+                    direction = GameDirection.Left;
+                }
+                else if (distance[1] <= distance[0] && distance[1] <= distance[2] && distance[1] <= distance[3])
+                {
+                    direction = GameDirection.Right;
+                }
+                else if (distance[2] <= distance[0] && distance[2] <= distance[1] && distance[2] <= distance[3])
+                {
+                    direction = GameDirection.Down;
+                }
+                else
+                {
+                    direction = GameDirection.Up;
+                }
+            }
+            return cell;
+
+        }
+
+        static double calculateDistance(int x, int Y, int pX, int pY)
+        {
+            return Math.Sqrt(Math.Pow((pX - x), 2) + Math.Pow((pY - Y), 2));
+        }

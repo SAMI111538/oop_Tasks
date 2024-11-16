@@ -1,0 +1,29 @@
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.AssemblyReference.cache
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.Form1.resources
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.Properties.Resources.resources
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.GenerateResource.cache
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\bin\Debug\GUIpacman.exe.config
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\bin\Debug\GUIpacman.exe
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\bin\Debug\GUIpacman.pdb
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\bin\Debug\EZInput.dll
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\bin\Debug\EZInput.xml
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.CopyComplete
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.exe
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.pdb
+C:\Users\ayesh\source\repos\GUIpacman\GUIpacman\obj\Debug\GUIpacman.Form2.resources
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\bin\Debug\GUIpacman.exe.config
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\bin\Debug\GUIpacman.exe
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\bin\Debug\GUIpacman.pdb
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\bin\Debug\EZInput.dll
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\bin\Debug\EZInput.xml
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.AssemblyReference.cache
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.SuggestedBindingRedirects.cache
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.Form1.resources
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.Form2.resources
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.Properties.Resources.resources
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.GenerateResource.cache
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.CoreCompileInputs.cache
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.csproj.CopyComplete
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.exe
+C:\Users\Syed Hashir\Desktop\Video\GUIpacman\GUIpacman\obj\Debug\GUIpacman.pdb

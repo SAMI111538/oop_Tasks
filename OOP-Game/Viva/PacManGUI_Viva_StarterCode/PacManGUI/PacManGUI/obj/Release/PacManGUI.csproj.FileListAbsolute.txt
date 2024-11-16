@@ -1,0 +1,14 @@
+C:\Teaching\PacMan\PacManGUI\PacManGUI\bin\Release\PacManGUI.exe.config
+C:\Teaching\PacMan\PacManGUI\PacManGUI\bin\Release\PacManGUI.exe
+C:\Teaching\PacMan\PacManGUI\PacManGUI\bin\Release\PacManGUI.pdb
+C:\Teaching\PacMan\PacManGUI\PacManGUI\bin\Release\EZInput.dll
+C:\Teaching\PacMan\PacManGUI\PacManGUI\bin\Release\PacManLibrary.pdb
+C:\Teaching\PacMan\PacManGUI\PacManGUI\bin\Release\EZInput.xml
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.csproj.AssemblyReference.cache
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.Form1.resources
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.Properties.Resources.resources
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.csproj.GenerateResource.cache
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.csproj.CoreCompileInputs.cache
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.csproj.CopyComplete
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.exe
+C:\Teaching\PacMan\PacManGUI\PacManGUI\obj\Release\PacManGUI.pdb

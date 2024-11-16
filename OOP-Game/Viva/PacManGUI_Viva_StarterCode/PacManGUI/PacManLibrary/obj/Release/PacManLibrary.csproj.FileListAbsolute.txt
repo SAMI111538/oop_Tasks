@@ -1,0 +1,7 @@
+C:\Teaching\PacMan\PacManGUI\PacManLibrary\bin\Release\PacManLibrary.dll
+C:\Teaching\PacMan\PacManGUI\PacManLibrary\bin\Release\PacManLibrary.pdb
+C:\Teaching\PacMan\PacManGUI\PacManLibrary\obj\Release\PacManLibrary.Properties.Resources.resources
+C:\Teaching\PacMan\PacManGUI\PacManLibrary\obj\Release\PacManLibrary.csproj.GenerateResource.cache
+C:\Teaching\PacMan\PacManGUI\PacManLibrary\obj\Release\PacManLibrary.csproj.CoreCompileInputs.cache
+C:\Teaching\PacMan\PacManGUI\PacManLibrary\obj\Release\PacManLibrary.dll
+C:\Teaching\PacMan\PacManGUI\PacManLibrary\obj\Release\PacManLibrary.pdb

@@ -1,0 +1,8 @@
+red shirt,shirts,1400,5
+blue shirt,shirts,3333,2
+black pant,pants,855,4
+white shirt,shirts,1000,3
+c,shoes,1234,4
+pink shirt,shirts,1313,3
+grey shirt,shirts,1500,7
+grey pant,pants,2375,4
